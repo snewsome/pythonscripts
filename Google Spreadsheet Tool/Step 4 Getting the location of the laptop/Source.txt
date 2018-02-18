@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/11787941/get-physical-position-of-device-with-python
