@@ -1,0 +1,4 @@
+https://superuser.com/questions/192550/why-wont-cmd-exit-after-execution-of-batch-file
+https://stackoverflow.com/questions/9640660/any-way-to-exit-bash-script-but-not-quitting-the-terminal
+https://stackoverflow.com/questions/324539/how-can-i-run-a-program-from-a-batch-file-without-leaving-the-console-open-after
+https://stackoverflow.com/questions/764631/how-to-hide-console-window-in-python
