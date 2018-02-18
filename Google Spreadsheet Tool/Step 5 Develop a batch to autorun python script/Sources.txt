@@ -1,2 +1,0 @@
-https://stackoverflow.com/questions/4571244/creating-a-bat-file-for-python-script
-https://stackoverflow.com/questions/31130960/run-a-program-at-start-up-on-python-in-windows

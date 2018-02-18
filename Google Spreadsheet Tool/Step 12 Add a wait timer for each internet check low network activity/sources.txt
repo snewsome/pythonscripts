@@ -1,1 +1,0 @@
-https://stackoverflow.com/questions/510348/how-can-i-make-a-time-delay-in-python
